@@ -1,0 +1,5 @@
+{
+  "name": "Super React Bros",
+  "description": "A classic platformer game inspired by Super Mario, built with React, TypeScript and Canvas API. Features jumping, enemies, collectables, and side-scrolling physics.",
+  "requestFramePermissions": []
+}
